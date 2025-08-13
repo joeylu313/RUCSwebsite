@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Newsletter Subscription Website
 
 A simple, modern website that allows users to subscribe to your newsletter using Audienceful.js.
@@ -89,3 +90,7 @@ The subscription form will automatically appear in the designated area and handl
 
 For Audienceful.js support, visit: https://audiencefulapp.net/
 For website customization help, refer to the HTML and CSS comments in the code.
+=======
+# RUCSwebsite
+website for club swim team of Rutgers University 
+>>>>>>> 715500fb6d773e099bae9bddfe6b6bd95bffc383
